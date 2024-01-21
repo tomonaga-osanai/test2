@@ -16,3 +16,7 @@ body {
 p {
   font-size: 38px;
 }
+
+.text {
+  color: blue;
+}
